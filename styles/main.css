@@ -4,7 +4,7 @@
 }
 
 .container{
-    width: 80%;
+    width: 70%;
     height: 70vh;
     background-color: #FFF;
     border-radius: 20px;
@@ -24,16 +24,18 @@
     color: #E8258E;
 }
 
-.field__title{
+.fields__title{
     display: flex;
     justify-content: center;
-    
 }
 
 #field__title{
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
     color: rgb(58, 58, 58);
+
+
+    margin-top: 20px;
     margin-bottom: 5%;
 
 }
@@ -87,4 +89,14 @@
     font-size: 20px;
     font-weight: bold;
     
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px    ;
+}
+
+.logo > img{
+    height: 80px;
 }
