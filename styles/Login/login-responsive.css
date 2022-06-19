@@ -5,20 +5,20 @@
 
     
 #field__title{
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 20px;
 }
 
 .fields__textboxs{
-    height: 130px;
+    height: 100px;
 }
 
 .fields__textboxs > input{
-    height: 150px;
+    height: 60px;
 }
 
 .fields__recover{
     margin-bottom: 20px;
 }
-    
+
 }
